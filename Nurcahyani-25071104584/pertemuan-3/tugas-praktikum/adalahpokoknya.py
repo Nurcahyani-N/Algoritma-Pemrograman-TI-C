@@ -33,7 +33,7 @@ class Mobil(Vehicle):
     def sound(self):
       return ("Brom")
 
-a = Vehicle('Kapal','Blabla', 1965)
+a = Vehicle('Kapal','Terserahlahapapunitu', 1965)
 b = Motor (2007,'Vario')
 c = Mobil (2007, 'Brio')
 
