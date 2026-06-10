@@ -1,0 +1,17 @@
+SENIN
+-Pendidikan Pancasila (A) Awan Larat 10 07:30-09:10
+-Kewirausahaan (A) Tempuk Manggis 7 09:20-11:00
+
+SELASA
+-Organisasi dan Arsitektur Komputer 322 08:00-10:30
+-Ilmu Lingkungan dan Mitigasi Bencana (C) Bunga Cengkih 3.    13:00-14:40
+-Struktur Data 302.   15:00-16:40
+
+RABU
+-Bahasa Indonesia (C) 09:20-11:00 Awan Larat 3
+-Aljabar Linier 322.      13:00-15:30
+
+KAMIS
+-Praktikum Struktur Data 08:00-10:00
+-Praktikum Algoritma Pemograman 12:30-14:30
+-Algoritma Pemograman 322.   14:45-16:25

@@ -1,0 +1,1 @@
+cd "c:\Users\A S U S\Algoritma-Pemrograman-TI-C\Nurcahyani-25071104584\pertemuan-8-uts\" ; if ($?) { python 25071104584_Nurcahyani.py }
